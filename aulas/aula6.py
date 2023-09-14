@@ -18,3 +18,4 @@ print(bool(' ')) # com valor == True
 
 # string
 print(str(11) + 'b')
+
